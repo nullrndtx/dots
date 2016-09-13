@@ -1,0 +1,5 @@
+URxvt*font:xft:PragmataPro:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*boldFont:xft:PragmataPro:style=Bold:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*italicFont:xft:PragmataPro:style=Italic:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*.boldItalicFont:xft:PragmataPro:style=BoldItalic:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+

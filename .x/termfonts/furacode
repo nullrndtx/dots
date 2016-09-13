@@ -1,0 +1,5 @@
+URxvt*font:xft:FuraCode Nerd Font:style=RegularForPowerline:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*boldFont:xft:FuraCode Nerd Font:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*italicFont:xft:FuraCode Nerd Font:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*.boldItalicFont:xft:FuraCode Nerd Font:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+

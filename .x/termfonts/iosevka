@@ -1,0 +1,5 @@
+URxvt*font:xft:Iosevka Nerd Font:style=Regular:pixelsize=11:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*boldFont:xft:Iosevka Nerd Font:style=Bold:pixelsize=11:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*italicFont:xft:Iosevka Nerd Font:style=Italic:pixelsize=11:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+URxvt*.boldItalicFont:xft:Iosevka Nerd Font:style=BoldItalic:pixelsize=11:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+
